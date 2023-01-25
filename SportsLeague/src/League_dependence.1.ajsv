@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!--AgileJ Ltd. (http://www.agilej.com)--><ajsv>
+    <diagram creationDate="2022-Oct-21 04:15" licenseGrade="single" licenseeName="AgileJ community member" licenseeOrganization="agilej-community" populationMethod="Wizard+DEPENDENCE" version="1.9.2.v20190518-1152">
+        <filterScript>
+
+// no filter script yet defined for this class diagram
+// use CTRL+SPACE for completion suggestions
+
+</filterScript>
+        <class className="Driver" modelMemberId="Driver" project="SportsLeague" xLocation="1368" yLocation="152"/>
+        <class className="Match" modelMemberId="Match" project="SportsLeague" xLocation="562" yLocation="30"/>
+        <class className="League" modelMemberId="League" project="SportsLeague" xLocation="30" yLocation="46"/>
+    </diagram>
+</ajsv>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!--AgileJ Ltd. (http://www.agilej.com)--><ajsv>
+    <diagram creationDate="2022-Oct-21 04:17" licenseGrade="single" licenseeName="AgileJ community member" licenseeOrganization="agilej-community" populationMethod="Wizard+DEPENDENCE" version="1.9.2.v20190518-1152">
+        <filterScript>
+
+// no filter script yet defined for this class diagram
+// use CTRL+SPACE for completion suggestions
+
+</filterScript>
+        <class className="GoalKeeper" modelMemberId="GoalKeeper" project="SportsLeague" xLocation="104" yLocation="925"/>
+        <class className="Player" modelMemberId="Player" project="SportsLeague" xLocation="30" yLocation="256"/>
+        <class className="Club" modelMemberId="Club" project="SportsLeague" xLocation="814" yLocation="247"/>
+        <class className="Driver" modelMemberId="Driver" project="SportsLeague" xLocation="2038" yLocation="30"/>
+        <class className="Match" modelMemberId="Match" project="SportsLeague" xLocation="1378" yLocation="255"/>
+        <class className="League" modelMemberId="League" project="SportsLeague" xLocation="2179" yLocation="332"/>
+    </diagram>
+</ajsv>
