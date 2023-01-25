@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!--AgileJ Ltd. (http://www.agilej.com)--><ajsv>
+    <diagram creationDate="2022-Oct-20 02:37" licenseGrade="single" licenseeName="AgileJ community member" licenseeOrganization="agilej-community" populationMethod="Wizard+INHERITANCE" version="1.9.2.v20190518-1152">
+        <filterScript>
+
+// no filter script yet defined for this class diagram
+// use CTRL+SPACE for completion suggestions
+
+</filterScript>
+        <class className="java.lang.Object" modelMemberId="java.lang.Object" project="SportsLeague" xLocation="611" yLocation="30"/>
+        <class className="Club" modelMemberId="Club" project="SportsLeague" xLocation="30" yLocation="140"/>
+    </diagram>
+</ajsv>
